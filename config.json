@@ -23,7 +23,7 @@
   "ads": {
     "status": true,
     "main_ads": "admob",
-    "backup_ads": "facebook",
+    "backup_ads": "",
     "ads_unit_id": {
       "admob": {
         "publisher_id": "pub-4177691308130545",
