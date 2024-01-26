@@ -89,9 +89,9 @@
       "banner_favorite": true,
       "interstitial_wallpaper_list": true,
       "rewarded_wallpaper_details": true,
-      "native_wallpaper_list": true,
-      "native_exit_dialog": true,
-      "app_open_ad_on_start": true,
+      "native_wallpaper_list": false,
+      "native_exit_dialog": false,
+      "app_open_ad_on_start": false,
       "app_open_ad_on_resume": false
     },
     "global": {
